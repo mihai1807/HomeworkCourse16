@@ -14,7 +14,7 @@ import java.util.Objects;
 // (Există și posibilitatea sa generati aceasta metodă, dar va recomand sa o scrieți voi prima data).
 //3.	Suprascrieti metoda hashcode() astfel incat ca atunci cand două numere sunt egale conform metodei
 // equals() sa aiba același hashcode. Puteti sa generati aceasta metodă.
-//4.	Scrieți o clasa Main cu o metodă main în care sa instantiati 3 obiecte:
+//4.	Scrieți o clasa SuperAdvancedCalculator cu o metodă main în care sa instantiati 3 obiecte:
 //ComplexNumber a = new ComplexNumber(1, 1);
 //ComplexNumber b = new ComplexNumber(1, 1);
 //ComplexNumber c = a;
